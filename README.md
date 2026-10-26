@@ -8,10 +8,10 @@ Aurora Hotel is a responsive, multi-page hotel website. This team project adds i
 
 | Member | Full name / group | Contribution |
 |---|---|---|
-| 1 | [FULL NAME, GROUP] | Personalized welcome and theme switch |
-| 2 | [FULL NAME, GROUP] | Interactive FAQ |
-| 3 | [FULL NAME, GROUP] | Live search and result feedback |
-| 4 | [FULL NAME, GROUP] | Dynamic wishlist, testing, and documentation |
+| 1 | [Meizamkhan Zhanbyrbayev, MT-2502] | Personalized welcome and theme switch |
+| 2 | [Dilnaz Toktanova, MT-2502] | Interactive FAQ |
+| 3 | [Ayazhan Nurtaza, MT-2502] | Live search and result feedback |
+| 4 | [Meizamkhan Zhanbyrbayev, MT-2502] | Dynamic wishlist, testing, and documentation |
 
 Update the contribution column to match each member's actual work and commits.
 
@@ -79,7 +79,8 @@ Add your own labelled screenshots of Task 0 (empty and valid), Task 1 (both them
 
 ## Live website
 
-[INSERT GITHUB PAGES OR NETLIFY URL]
+https://meizaitu.github.io/asik5part1aurorahotel/ 
+https://github.com/meizaitu/asik5part1aurorahotel/
 
 ## Note
 
